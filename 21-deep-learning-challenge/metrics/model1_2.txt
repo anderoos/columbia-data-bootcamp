@@ -1,0 +1,2 @@
+215/215 - 0s - loss: 0.5587 - accuracy: 0.7257 - 83ms/epoch - 385us/step
+Loss: 0.5587286353111267, Accuracy: 0.7257476449012756
