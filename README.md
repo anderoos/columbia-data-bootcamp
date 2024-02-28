@@ -143,7 +143,7 @@ This repository serves to showcase my journey and skills in data analytics and v
 **Tech-stack:**  `pyspark`, `hdfs`, `python`, `databricks`<br>
 <br>
 
-## Milestone Project
+## Milestone Projects
   * [Property Investment Opportunities in 2025](https://github.com/anderoos/property-investment-ops-2025)
   * [Crowdfunding ETL Project](https://github.com/anderoos/crowdfunding-ETL)
   * [Visualizing Electricty Usage and Rates](https://github.com/ElenaLomako/Project-3/tree/main)
