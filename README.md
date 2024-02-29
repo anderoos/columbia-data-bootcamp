@@ -1,7 +1,7 @@
 # Andrew Cheng - Columbia Data Analytics Bootcamp
 
 ## About
-This repository serves to showcase my journey and skills in data analytics and visualization and a way to track progress and skills in analytics and data science related topics.
+This repository serves to showcase my journey and skills in data analytics and visualization and a way to track progress and skills in analytics and data science related topics. This was aggregated originally from 17 separate reposities to reduce clutter and improve readability.
 
 ## Table of Contents
 * [About](#about)
@@ -78,14 +78,14 @@ This repository serves to showcase my journey and skills in data analytics and v
 <br>
 
 ### Querying with SQLalchemy
-**Code/ Folder:** [10-sqlalchemy-challenge](https://github.com/anderoos/columbia-data-bootcamp/tree/main/10-sqlalchemy-challenge)
+**Code/ Folder:** [10-sqlalchemy-challenge](https://github.com/anderoos/columbia-data-bootcamp/tree/main/10-sqlalchemy-challenge)<br>
 **Description:** Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.<br>
 **Tech-stack:**  `python`, `sql`, `sqlalchemy`, `matplotlib`<br>
 **Results:** The average temperature between 2016 and 2017 is 73.1F, with median temperatuer at 74.0F<br>
 <br>
 
 ### Web scraping Mars Weather Data
-**Code/ Folder:** [11-html-scraping-challenge](https://github.com/anderoos/columbia-data-bootcamp/tree/main/11-html-scraping-challenge)
+**Code/ Folder:** [11-html-scraping-challenge](https://github.com/anderoos/columbia-data-bootcamp/tree/main/11-html-scraping-challenge)<br>
 **Description:** You’re now ready to take on a full web-scraping and data analysis project. You’ve learned to identify HTML elements on a page, identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. You’ve also learned to scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.<br>
 **Tech-stack:**  `python`, `bs4`, `matplotlib`, `seaborn`<br>
 **Results:** Atmospheric pressure experienced is lowest the sixth month and highest in the ninth. One martian year is observed to be 681 martian sols.<br>
